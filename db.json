@@ -1,0 +1,95 @@
+{
+  "vw_cy_truck_monitoring": [
+    {
+      "container_no": "BMOU3124080",
+      "gate_in_truck": "2025-02-22 08:10:21.293",
+      "truck_no": "B9958UWW",
+      "customer_name": "PT. NTN BEARING INDONESIA",
+      "ctr_size": 40,
+      "block": "B1",
+      "slot": null,
+      "row": null,
+      "tier": null,
+      "durasi": 75,
+      "services": "IMPORT IN"
+    },
+    {
+      "container_no": "SITU9140700",
+      "gate_in_truck": "2025-02-22 08:13:51.597",
+      "truck_no": "B9241UIZ",
+      "customer_name": "PT. JTEKT INDONESIA",
+      "ctr_size": 40,
+      "block": "B1",
+      "slot": null,
+      "row": null,
+      "tier": null,
+      "durasi": 72,
+      "services": "IMPORT IN"
+    },
+    {
+      "container_no": "TEMU8004374",
+      "gate_in_truck": "2025-02-22 09:20:07.393",
+      "truck_no": "B9944UWW",
+      "customer_name": "PT. ANGKASA BERKAH UTAMA DUNIA",
+      "ctr_size": 45,
+      "block": "B4",
+      "slot": 2,
+      "row": 8,
+      "tier": 2,
+      "durasi": 5,
+      "services": "IMPORT IN"
+    },
+    {
+      "container_no": "UETU7257163",
+      "gate_in_truck": "2025-02-22 07:51:17.987",
+      "truck_no": "B9553UEK",
+      "customer_name": "PT. HOME CENTER INDONESIA",
+      "ctr_size": 40,
+      "block": "B4",
+      "slot": 2,
+      "row": 12,
+      "tier": 1,
+      "durasi": 94,
+      "services": "DELIVERY"
+    },
+    {
+      "container_no": "TCNU2339494",
+      "gate_in_truck": "2025-02-22 09:23:28.673",
+      "truck_no": "B9073UIV",
+      "customer_name": "PT. HOME CENTER INDONESIA",
+      "ctr_size": 40,
+      "block": "B1",
+      "slot": 3,
+      "row": 10,
+      "tier": 2,
+      "durasi": 2,
+      "services": "DELIVERY"
+    },
+    {
+      "container_no": "DFSU7708150",
+      "gate_in_truck": "2025-02-22 08:06:55.517",
+      "truck_no": "B9805UEK",
+      "customer_name": "PT. HOME CENTER INDONESIA",
+      "ctr_size": 40,
+      "block": "B2",
+      "slot": 4,
+      "row": 16,
+      "tier": 1,
+      "durasi": 79,
+      "services": "DELIVERY"
+    },
+    {
+      "container_no": "ECMU7318583",
+      "gate_in_truck": "2025-02-22 09:09:52.617",
+      "truck_no": "B9570UIZ",
+      "customer_name": "PT. HOME CENTER INDONESIA",
+      "ctr_size": 40,
+      "block": "B3",
+      "slot": 4,
+      "row": 6,
+      "tier": 2,
+      "durasi": 16,
+      "services": "DELIVERY"
+    }
+  ]
+}
