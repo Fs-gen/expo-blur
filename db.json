@@ -1,6 +1,18 @@
 {
   "vw_cy_truck_monitoring": [
-   
+   {
+      "container_no": "BMOU3124080",
+      "gate_in_truck": "2025-02-22 08:10:21.293",
+      "truck_no": "B9958UWW",
+      "customer_name": "PT. NTN BEARING INDONESIA",
+      "ctr_size": 40,
+      "block": "B1",
+      "slot": null,
+      "row": null,
+      "tier": null,
+      "durasi": 75,
+      "services": "IMPORT IN"
+    },
     {
       "container_no": "SITU9140700",
       "gate_in_truck": "2025-02-22 08:13:51.597",
